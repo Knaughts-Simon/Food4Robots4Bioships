@@ -1,0 +1,4 @@
+f4r4b_modifier = {
+    planet_farmers_food_produces_add = 1
+    planet_technician_energy_produces_add = -1
+}

@@ -1,0 +1,5 @@
+on_game_start_country = {
+    events = {
+		f4r4b.1
+	}
+}
