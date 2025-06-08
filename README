@@ -1,11 +1,11 @@
 Robots with bioships are less bad at farming.
 
 Specifically:
-[ulist]
+[list]
     [*][b]In vanilla[/b], robot empires (whether gestalt or individualistic) have a bonus to energy generation (+2 per 100 pops) and a penalty to food generation (-1 per 100 pops).
     [*]This makes sense because they usually don't need food. However, if their empire uses bioships, they probably need a [i]lot[/i] of food.
     [*]To mitigate this, [b]with this mod[/b], if a robot empire uses bioships, its pops generate +1 food and -1 energy per 100 pops.
-[/ulist]
+[/list]
 
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
