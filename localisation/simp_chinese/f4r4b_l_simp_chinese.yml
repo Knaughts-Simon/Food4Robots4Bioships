@@ -1,2 +1,3 @@
 ﻿l_simp_chinese:
- f4r4b_modifier: "$food$ - $planet_jobs_robotic$ - $bio_ship$"
+ f4r4b_modifier: "$food$ → $planet_jobs_robotic$ → $bio_ship$"
+ f4r4b_modifier_tooltip: "From mod: Food for Robots for Bioships"
