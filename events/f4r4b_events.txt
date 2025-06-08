@@ -14,7 +14,6 @@ country_event = {
     immediate = {
         add_modifier = {
             modifier = f4r4b_modifier
-            # days = -1  # Permanent
         }
     }
 }
